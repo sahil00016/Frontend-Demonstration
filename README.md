@@ -265,7 +265,23 @@ src/
 ├── App.tsx                    # Root component
 ├── main.tsx                   # Entry point
 └── index.css                  # Global styles
+
+
+Screenshots:
+<img width="1788" height="879" alt="image" src="https://github.com/user-attachments/assets/9dfe84d5-0693-4d36-9852-7fc6b12b113f" />
+<img width="1781" height="873" alt="image" src="https://github.com/user-attachments/assets/996849fc-dfe1-46ff-9333-6e714dea0d8f" />
+<img width="1773" height="875" alt="image" src="https://github.com/user-attachments/assets/69449005-bcd4-43c7-a8c4-284aeb3d6fc0" />
+<img width="1714" height="880" alt="image" src="https://github.com/user-attachments/assets/9057e502-9614-44fd-af16-b19825a4aac6" />
+<img width="1574" height="882" alt="image" src="https://github.com/user-attachments/assets/982fe399-17bc-4046-b2a0-91e98618cd38" />
+<img width="1414" height="877" alt="image" src="https://github.com/user-attachments/assets/e48982c3-4ccf-47c7-8d80-b295e2d048df" />
+<img width="1418" height="871" alt="image" src="https://github.com/user-attachments/assets/bc8c655e-86e0-46ad-bb12-db6419cd16dd" />
+
+
+
+
 ```
+
+
 
 ## Animation Details
 
