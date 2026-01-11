@@ -1,8 +1,25 @@
 {
-  "name": "animated-dashboard",
+  "name": "launchedglobal-enrollment",
+  "version": "1.0.0",
+  "description": "Premium career accelerator enrollment platform with animated UI",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
+  "author": "LauchedGlobal Team",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "typescript",
+    "enrollment",
+    "career",
+    "education",
+    "animation",
+    "framer-motion",
+    "tailwindcss"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/launchedglobal.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
